@@ -6,3 +6,10 @@ baseurl: ""
 twitter_username: "your-twitter-handle"
 github_username: "your-github-username"
 theme: minima
+
+# Navigation links
+nav_links:
+  - name: "Home"
+    link: "/"
+  - name: "Resume"
+    link: "/resume"
