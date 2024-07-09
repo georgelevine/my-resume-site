@@ -1,0 +1,52 @@
+I"0<h1 id="my-resume">My Resume</h1>
+
+<h2 id="contact-information">Contact Information</h2>
+<ul>
+  <li><strong>Name:</strong> Your Name</li>
+  <li><strong>Email:</strong> <a href="mailto:your-email@example.com">your-email@example.com</a></li>
+  <li><strong>Phone:</strong> Your Phone Number</li>
+  <li><strong>Address:</strong> Your Address</li>
+</ul>
+
+<h2 id="education">Education</h2>
+<h3 id="your-university">Your University</h3>
+<ul>
+  <li><strong>Degree:</strong> Your Degree</li>
+  <li><strong>Field of Study:</strong> Your Field of Study</li>
+  <li><strong>Graduation Year:</strong> Your Graduation Year</li>
+</ul>
+
+<h2 id="work-experience">Work Experience</h2>
+<h3 id="your-company">Your Company</h3>
+<ul>
+  <li><strong>Position:</strong> Your Position</li>
+  <li><strong>Duration:</strong> Start Date - End Date</li>
+  <li><strong>Responsibilities:</strong>
+    <ul>
+      <li>Responsibility 1</li>
+      <li>Responsibility 2</li>
+      <li>Responsibility 3</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="skills">Skills</h2>
+<ul>
+  <li>Skill 1</li>
+  <li>Skill 2</li>
+  <li>Skill 3</li>
+</ul>
+
+<h2 id="projects">Projects</h2>
+<h3 id="project-1">Project 1</h3>
+<ul>
+  <li><strong>Description:</strong> A brief description of your project.</li>
+  <li><strong>Link:</strong> <a href="https://github.com/your-username/project">GitHub Repository</a></li>
+</ul>
+
+<h3 id="project-2">Project 2</h3>
+<ul>
+  <li><strong>Description:</strong> A brief description of your project.</li>
+  <li><strong>Link:</strong> <a href="https://github.com/your-username/project">GitHub Repository</a></li>
+</ul>
+:ET
